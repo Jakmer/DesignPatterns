@@ -1,0 +1,2 @@
+# Builder
+Builder is a creational design pattern that separates the construction of a complex object from its representation. It allows step-by-step construction of an object with various parameters, providing flexibility and ensuring the same construction process can create different representations of the object.
